@@ -1,4 +1,4 @@
-package com.example.testeserial;
+package com.victorvision.uart_demo;
 
 import org.junit.Test;
 
