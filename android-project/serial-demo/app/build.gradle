@@ -3,6 +3,7 @@ plugins {
 }
 
 android {
+    namespace 'com.victorvision.uart_demo'
     compileSdkVersion 30
 
     defaultConfig {
